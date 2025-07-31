@@ -1,4 +1,4 @@
-React Student Management Application
+**React Student Management Application**
 
 This project is a React-based web application designed for managing student data, implementing fundamental CRUD (Create, Read, Update, Delete) operations.
 It utilizes react-router-dom for client-side routing, providing navigation between different views.
