@@ -10,5 +10,6 @@ The Nav component allows users to navigate to the "Home" page (which is the Crea
 
 
 
+<img width="1919" height="1136" alt="image" src="https://github.com/user-attachments/assets/2c9d2e3b-f295-49bb-bf27-15b617e93235" />
 
 
