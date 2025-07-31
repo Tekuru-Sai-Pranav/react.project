@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    height: 65px;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+a{
+    color: black;
+   font-size: 30px;
+   text-decoration: none;padding-left: 100px;
+   font-weight: bolder;
+
+}
+.active{
+    color: orange;
+}
